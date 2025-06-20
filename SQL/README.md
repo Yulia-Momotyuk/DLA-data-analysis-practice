@@ -19,16 +19,11 @@ This repository contains my **homework assignments** completed during the **"Dat
 
 ## 🧠 What I'm Learning:
 
-- Use product and marketing metrics of an IT product to understand business processes  
-- Program and analyze data using Python (plus Git as a bonus)  
-- Build informative data visualizations  
-- Work with SQL and BigQuery  
-- Apply statistics and probability theory to practical problems  
-- Analyze A/B tests  
-- Build interactive reports in BI tools (Tableau and Power BI)  
-- Use Google Spreadsheets/Excel (data handling, data visualization, pivot tables, VLOOKUP, working with APIs, text parsing)  
-- Build basic machine learning models for forecasting, classification, and clustering  
-
+- SQL: filtering, JOINs, aggregation, subqueries
+- Excel: analysis, formulas, pivot tables, charts
+- Power BI &  Tableau: data visualizations, dashboards, KPIs, funnel analysis
+- Statistics: mean, median, standard deviation, correlation, distributions
+- Python: data cleaning, EDA, visualization, statistics
 
 ---
 
