@@ -17,15 +17,11 @@ This repository contains an interactive dashboard based on a public bike rental 
 
 ### 🔍 How to View the Dashboard
 
-#### 🔸 Option 1: Download and Open HTML
+#### 🔸 Download and Open HTML
 1. Click this link:  
    [`dashboard.html`](./dashboard.html)  
 2. Right-click → **"Save As"** or open directly in your browser
 3. Explore the dashboard with interactive features (zoom, hover, filter)
-
-#### 🔸 Option 2: View Static Screenshot
-- [View PNG](./Python/Bike%Dashboard/3D%Scatter%Plot.png)
-
 ---
 
 ### 💡 Dashboard Features
