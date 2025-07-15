@@ -24,7 +24,7 @@ This repository contains an interactive dashboard based on a public bike rental 
 3. Explore the dashboard with interactive features (zoom, hover, filter)
 
 #### 🔸 Option 2: View Static Screenshot
-- [View PNG](./3D Scatter Plot)
+- [View PNG](./Python/Bike Dashboard/3D Scatter Plot.png)
 
 ---
 
