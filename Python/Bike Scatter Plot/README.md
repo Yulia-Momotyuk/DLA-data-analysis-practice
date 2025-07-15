@@ -10,8 +10,8 @@ This repository contains an interactive dashboard based on a public bike rental 
 
 | File | Description |
 |------|-------------|
-| `dashboard.html` | Interactive dashboard in HTML format |
-| `dashboard.png` | Static screenshot of the dashboard with manual zoom/filter applied |
+| `Scatter Plot.html` | Interactive dashboard in HTML format |
+| `3D Scatter Plot.png` | Static screenshot of the dashboard with manual zoom/filter applied |
 
 ---
 
