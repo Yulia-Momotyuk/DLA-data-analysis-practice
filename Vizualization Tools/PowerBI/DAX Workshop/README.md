@@ -45,7 +45,8 @@ Margin% =
 VAR _Sales = SUMX(FactSales, FactSales[Net Price] * FactSales[Quantity])
 VAR _Costs = SUMX(FactSales, FactSales[Unit Cost] * FactSales[Quantity])
 VAR _Profit = _Sales - _Costs
-RETURN DIVIDE(_Profit, _Sales)```
+RETURN DIVIDE(_Profit, _Sales)
+```
 
 ## 📬 Contact
 
