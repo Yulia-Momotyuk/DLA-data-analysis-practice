@@ -3,7 +3,6 @@
 ## Tableau Dashboard Project
 
 This project was created as part of my learning journey with Tableau.  
-I built an interactive dashboard based on the Contoso dataset, using calculated fields, table calculations, and optimized visual design to improve data insights.  
 
 🔗 [View the Tableau Dashboard](https://public.tableau.com/app/profile/yuliia.kononchuk/viz/SalesDashboard_17466863632110/SalesDashboard)
 
