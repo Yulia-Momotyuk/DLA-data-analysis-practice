@@ -10,7 +10,7 @@ This repository contains my **homework assignments** completed during the **"Dat
 ## 🗂 Repository Structure:
 
 - `SQL` — database queries 
-- `Excel` — spreadsheets, formulas, pivot tables, visualizations
+- `Excel/Google Sheets` — spreadsheets, formulas, pivot tables, visualizations
 - `Vizualization Tools: PowerBI & Tableau` — visual analytics, dashboards, funnel interactive dashboards and KPI reports
 - `Python` — data analysis using pandas, matplotlib, seaborn
 - `README.md` — repository overview
