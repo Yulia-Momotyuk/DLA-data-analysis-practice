@@ -12,7 +12,8 @@ This repository contains my **homework assignments** completed during the **"Dat
 - `SQL` — database queries 
 - `Excel/Google Sheets` — spreadsheets, formulas, pivot tables, visualizations
 - `Vizualization Tools: PowerBI & Tableau` — visual analytics, dashboards, funnel interactive dashboards and KPI reports
-- `Python` — data analysis using pandas, matplotlib, seaborn
+- `Python` — data analysis using pandas, matplotlib, seaborn, plotly
+- `Static Hypothesis Testing and A/B Testing` — the folder contains examples of static hypothesis testing and A/B testing with Python.
 - `README.md` — repository overview
 
 ---
