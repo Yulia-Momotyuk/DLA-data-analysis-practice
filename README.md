@@ -9,8 +9,8 @@ This repository contains my **homework assignments** completed during the **"Dat
 
 ## 🗂 Repository Structure:
 
-- `SQL` — database queries 
 - `Excel/Google Sheets` — spreadsheets, formulas, pivot tables, visualizations
+- `SQL` — database queries 
 - `Vizualization Tools: PowerBI & Tableau` — visual analytics, dashboards, funnel interactive dashboards and KPI reports
 - `Python` — data analysis using pandas, matplotlib, seaborn, plotly
 - `Static Hypothesis Testing and A/B Testing` — the folder contains examples of static hypothesis testing and A/B testing with Python.
