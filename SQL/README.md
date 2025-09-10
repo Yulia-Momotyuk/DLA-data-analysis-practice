@@ -7,21 +7,21 @@ The file `sql_practice_tasks.sql` contains the full list of tasks with example s
 
 ---
 
-## 🔹 Databases Used
+## Databases Used
 
 1. **[Northwind](https://www.sql-practice.com/)** — a classic sample database for working with commercial data (orders, customers, products, suppliers).
 2. **[Employees Sample Database](https://dev.mysql.com/doc/employee/en/)** — a MySQL sample database with data on employees, salaries, departments, and employment history.
 
 ---
 
-## 🔹 Tools
+## Tools
 
 - **[DBeaver](https://dbeaver.io/)** — a universal database client for working with various DBMS.
 - **MySQL Server** — for database deployment and query execution.
 
 ---
 
-## 🔹 What I Learned While Writing and Analyzing Queries
+## What I Learned While Writing and Analyzing Queries
 
 - Working with **JOIN** to combine data from multiple tables.
 - Using **aggregate functions** (`COUNT`, `SUM`, `AVG`, `MAX`, `MIN`) and grouping data.

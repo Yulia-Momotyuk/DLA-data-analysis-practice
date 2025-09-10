@@ -7,7 +7,7 @@ This repository contains my **homework assignments** completed during the **"Dat
 
 ---
 
-## 🗂 Repository Structure:
+## Repository Structure:
 
 - `Excel/Google Sheets` — spreadsheets, formulas, pivot tables, visualizations
 - `SQL` — database queries 
@@ -18,7 +18,7 @@ This repository contains my **homework assignments** completed during the **"Dat
 
 ---
 
-## 🧠 What I'm Learning:
+## What I'm Learning:
 
 - Use product and marketing metrics of an IT product to understand business processes  
 - Program and analyze data using Python (plus Git as a bonus)  
@@ -33,12 +33,12 @@ This repository contains my **homework assignments** completed during the **"Dat
 
 ---
 
-## 🎯 Goal:
+## Goal:
 To gain hands-on data analytics skills and confidently begin a career in the **Data Analytics** field.
 
 ---
 
-## 🔧 Tools & Technologies:
+## Tools & Technologies:
 
 - SQL (PostgreSQL / MySQL)
 - Excel / Google Sheets

@@ -6,7 +6,7 @@ This repository contains links to completed homework assignments on Google Sheet
 
 ---
 
-## 🔹 Homework Assignments
+## Homework Assignments
 
 1. **[HW 1 – Google Sheets Basics](https://docs.google.com/spreadsheets/d/1Tm_kuhE4urY9ZM8jNwKnbMtxSpjy2LHUFbA_E2iAtZY/edit?gid=946809490#gid=946809490)**  
    - Data sorting  
@@ -49,7 +49,7 @@ This repository contains links to completed homework assignments on Google Sheet
 
 ---
 
-## 🔹 What I Learned
+## What I Learned
 
 - Efficiently **sort and filter data** in Google Sheets.  
 - Use **conditional formatting** to highlight key values.  
