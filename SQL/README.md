@@ -34,7 +34,7 @@ The file `sql_practice_tasks.sql` contains the full list of tasks with example s
 
 ## 📬 Contact
 
-[LinkedIn](http://linkedin.com/in/yulia-kononchuk) | [Email](mailto:kononchuk.yuliia@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yuliia-kononchuk-78913633b/) | [Email](mailto:kononchuk.yuliia@gmail.com)
 
 ---
 > **Author**: _Yuliia Kononchuk_  

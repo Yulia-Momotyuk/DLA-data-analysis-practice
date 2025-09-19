@@ -14,6 +14,7 @@ This repository contains my **homework assignments** completed during the **"Dat
 - `Vizualization Tools: PowerBI & Tableau` — visual analytics, dashboards, funnel interactive dashboards and KPI reports
 - `Python` — data analysis using pandas, matplotlib, seaborn, plotly
 - `Static Hypothesis Testing and A/B Testing` — the folder contains examples of static hypothesis testing and A/B testing with Python.
+- `Machine Learning` — machine learning basics, linear regression, logistic regression, decision trees, classification, data manipulation, and simple models in Python using a basic dataset.
 - `README.md` — repository overview
 
 ---
@@ -53,7 +54,7 @@ To gain hands-on data analytics skills and confidently begin a career in the **D
 
 ## 📬 Contact
 
-[LinkedIn](http://linkedin.com/in/yulia-kononchuk) | [Email](mailto:kononchuk.yuliia@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yuliia-kononchuk-78913633b/) | [Email](mailto:kononchuk.yuliia@gmail.com)
 
 ---
 > **Author**: _Yuliia Kononchuk_  
